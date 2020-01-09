@@ -8,7 +8,7 @@ b=123.25 #float datatypes
 e=a+b #expression
 v= 2.3+3.2j #complex datatype
 print"......expression......"
-c=15
+c=20
 d=30 
 e=c+d
 f=d-c
